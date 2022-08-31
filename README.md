@@ -13,6 +13,6 @@ To follow this guide, you will need all of this bellow:
 
 * Buka Visual Studio Code
 * Ctrl + Shift + P buat ngebuka Command Palette
-![alt text](https://https://https://github.com/MirzaHilmi/Basic-Start-Guides/blob/main/docs/Screenshot248.png?raw=true)
+![alt text](https://github.com/MirzaHilmi/Basic-Start-Guides/blob/main/docs/Screenshot248.PNG?raw=true)
 
 
