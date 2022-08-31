@@ -1,2 +1,16 @@
 # Basic-Java-Start-Guides
-Basic step-by-step create new java project folder
+
+A simple guides to run java in Visual Studio Code.
+
+## Prerequisites
+
+To follow this guide, you will need all of this bellow:
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Java SE Development Kit 18](https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.msi)
+* [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+## How to run Java in Visual Studio Code
+
+* Buka Visual Studio Code
+* Ctrl + Shift + P buat ngebuka Command Palette
+![alt text](https://github.com/RavinMaddHatter/Structura/blob/main/docs/export_structure.PNG?raw=true)
